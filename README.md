@@ -15,7 +15,7 @@ This is a simple login/sign up page built using ReactJS. It allows users to crea
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Amit00008/LoginSignup-using-reactjs`
+1. Clone the repository: `git clone https://github.com/Amit00008/LoginSignup-using-Reactjs`
 2. Navigate to the project directory: `cd your-repo`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
